@@ -1,6 +1,6 @@
 # Anastasiia Severina
 
-[avatar]: my-photo.jpg
+![avatar]: my-photo.jpg
 
 ***
 
@@ -37,6 +37,6 @@ At my university I worked with HTML/CSS/JavaScript but now I feel like I need mo
 
 ### **Language:**
 * English - B2
-[english]: english.png
+    ![english]: english.png
 * Ukrainian - native
 * Russian - intermediate
