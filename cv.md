@@ -36,7 +36,7 @@ At my university I worked with HTML/CSS/JavaScript but now I feel like I need mo
 * 2021-... software engenire in EPAM
 
 ### **Language:**
-* English - B2
+* English - B2\
     ![english](english.png)
 * Ukrainian - native
 * Russian - intermediate
