@@ -1,15 +1,15 @@
 # Anastasiia Severina
 
-![avatar]: my-photo.jpg
+![avatar](my-photo.jpg)
 
 ***
 
 ### **Contact Information**
-**Phone:** +38(099)66-20-225
-**E-mail:** sever.nastiia@gmail.com
-**Telegram:** @CoolZi
-**Git:** [Main Accout](https://github.com/SeverinaN), [University account](https://github.com/Severina-anastasiia)
-**LinkedIn:** [Anastasiia Severina](https://www.linkedin.com/in/anastasiia-severina-317025204/)
+**Phone:** +38(099)66-20-225\
+**E-mail:** sever.nastiia@gmail.com\
+**Telegram:** @CoolZi\
+**Git:** [Main Accout](https://github.com/SeverinaN), [University account](https://github.com/Severina-anastasiia)\
+**LinkedIn:** [Anastasiia Severina](https://www.linkedin.com/in/anastasiia-severina-317025204/)\
 
 ***
 ### **About me**
@@ -37,6 +37,6 @@ At my university I worked with HTML/CSS/JavaScript but now I feel like I need mo
 
 ### **Language:**
 * English - B2
-    ![english]: english.png
+    ![english](english.png)
 * Ukrainian - native
 * Russian - intermediate
