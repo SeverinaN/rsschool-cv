@@ -1,0 +1,74 @@
+body {
+    background-color: lightcyan;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.year {
+    font-weight: bold;
+}
+
+.education-step {
+    font-style: italic;
+}
+
+header {
+    background-color: #77C2FF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+}
+
+h1 {
+    font-size: 50px;
+    color: aliceblue;
+    margin: 0 2em;
+}
+
+.avatar {
+    border-radius: 40%;
+    margin: 0 5em;
+    height: 270px;
+}
+
+a:visited, a:hover, a:active, a:link {
+    color: black;
+    text-decoration-line: none;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav {
+    padding: 1em;
+    border-right: 2px solid black;
+}
+
+li {
+    margin: 1em 0;
+}
+
+div {
+    padding: 1em;
+}
+
+.certificate {
+    height: 250px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 2em;
+    background-color: #77C2FF;
+    color: aliceblue;
+    align-items: center;
+    font-size: 20px;
+
+}
+
+a.footer {
+    color: aliceblue;
+}
